@@ -1,4 +1,4 @@
-import { Content } from './content-interface';
+/* import { Content } from './content-interface';
 
 export class ContentList {
   private contentArray: Content[] = [];
@@ -36,4 +36,4 @@ export class ContentList {
       <p>Type: ${contentItem.type}</p>
     `;
   }
-}
+} */
